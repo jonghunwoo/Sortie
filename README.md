@@ -1,2 +1,2 @@
 # Sortie
-DES simulation for SGR calculation using SimPy3
+DES simulation for SGR calculation using SimPy4
